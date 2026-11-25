@@ -9,3 +9,6 @@ as computers began to develop they began to be capable of collecting, storing an
 i belive ways to prevent data leaks is through stronger security systems and the biggest factor i belive is clarity as companys tend to hide whats accepting cookies really are.
 
 ## 5.2 employment and automation
+throughout the compting history thechnology has devloped the work place in many instances, over time computers became so advanced that it could be given human jobs due to the automation and eficency, although computers where significantly better thsn humans in certain feilds humans who still worked in the workspace would have to adpat to the new technology, the internal labour organization highlighted digitalisation and ai was changing the workplace requirments and was causing for people to be more qualified in their feild of work
+
+a  possible  for the goverment to work towards would to invest in their employees for education and training for ai, this would help the workers adapt faster and provide a smooth workplace
