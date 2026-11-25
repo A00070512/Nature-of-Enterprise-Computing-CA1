@@ -1,5 +1,5 @@
 # Nature-of-Enterprise-Computing-CA1
-Computing Evolution: A Multi-Perspective Analysis
+computing evolution: a multi perspective analysis
 
 ## 2 / historical development:
 
