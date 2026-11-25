@@ -5,6 +5,7 @@ the historical development of computing has brought significant benifits to soci
 
 ## 5.1 privacy and data protection
 as computers began to develop they began to be capable of collecting, storing and processing large amounts of data. Modern organisations use computers to store data such as user passwords, bank details, social security numbers and much more although it is great to have all your data in one place it improves risk of data leaks, misuse of perosnal information although all companies must follow GDPR (general data protection regulation)
+
 i belive ways to prevent data leaks is through stronger security systems and the biggest factor i belive is clarity as companys tend to hide whats accepting cookies really are.
 
 ## 5.2 employment and automation
