@@ -21,4 +21,7 @@ according to international telecommunication union approximately 2 billion peopl
 ## 5.4 enviormental sustainability
 enviromental sustaniablity is another ethical concern, production and disposal of computers requires natural mateerials and also requires energy and as computers devlope and how frequently it will only need more energy and natural materials making such products bad for the enviorment in multiple ways 
 
-according to the global e-waste monitor 2024, produced by the telecommunication union and united nations institute for traning and research around sixty two billion kilos of electronic waste was generated in 2022 with only less than 30% of it being recyled properly.manufactures should begin to prioritse recycling programs worldwide and desgin products made to last 
+according to the global e-waste monitor 2024, produced by the telecommunication union and united nations institute for traning and research around sixty two billion kilos of electronic waste was generated in 2022 with only less than 30% of it being recyled properly.manufactures should begin to prioritse recycling programs worldwide and desgin products made to last.
+
+## 5.5 overall ethical reflection 
+overall the historical development of computing has imporved in many aspects  of everyday life but these improvements have introduced alot of ethical concerns, technology should not only be judged by price and preformance but also sustainablity, by strenghening data protection, supporting employees, reducing digital inequality and reducing computer waste society can ensure future computing developments are more responsible and benifical for everyone.
