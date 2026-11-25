@@ -1,11 +1,11 @@
 # Nature-of-Enterprise-Computing-CA1
 computing evolution: a multi perspective analysis
 
-## 2 / historical development:
+## 2  historical development:
 
 modern technology has progressed through a number of significant developments in computer hardware. From basic mechanical computers, to todays personal computers, the following are some of the important stages in this process.
 
-### 2.1 / mechanical and early programmable foundations:
+### 2.1  mechanical and early programmable foundations:
 
 the history of the modern computer goes back to the 19th century from brithish mathematician charles babbage. in 1822 babbage conceived of the difference engine,
 a mathematical calculator designed to perform automatic polynommial computattions.
@@ -13,7 +13,7 @@ based on the same idea, babbage introduced in 1837 the idea of an analytical eng
 although not built during his time, ada lovelace understood its significance and created the first algorithm for the machine.
 almost a hundred years later german engineer konrad zuse created the Z3 in 1941, which was the first working electromechanical, fully automatic programmable digital computer
 
-### 2.2 / 1st generation vacuum tube systems:
+### 2.2  1st generation vacuum tube systems:
 
 the second world war spedup development in computer technology, which led to the first generation of electronic digital computers using vacuum tubes.
 In 1943, Colossus, an electronic computer designed for code breaking was invented by british enginears. in 1945, ENIAC (electronic numerical integrator and computer), designed by John
@@ -21,7 +21,7 @@ Mauchly and J Presper Eckert from the usa, was ready.
 ENIAC was capable of computing thousands of operations per second and filled a whole room, its task changes involved manual rewiring. In 1951 the first commercial electronic digital
 computer, the UNIVAC I, was introduced to the american market, proving that computing can be used for civilian purposes and not only for military studies
 
-### 2.3 / 2nd generation translator and third generation integrated circuit systems:
+### 2.3  2nd generation translator and third generation integrated circuit systems:
 
 during the 1950s, transistors were developed as an alternative to large unreliable and power hungry vacuum tubes. developed at bell labs, these small solid state components enabled
 efficient switching and completed the same functions as vacuum tubes but in a much smaller and more economical format (computer history museum). computers such as the IBM 1401,
@@ -31,7 +31,7 @@ through the 1960s, the creation of the circuit (IC) signaled the third generatio
 chip, which improved proccesing speed and further decreased production expenses (encyclopaedia britannica). however computer systems such as the IBM System/360 introduced a range of
 computer sizes which ran on computer software. this secured business computer usage within institutions and also established the basis for todays computer software environment (IBM)
 
-### 2.4 / 4th generation microprossesors and the rise of personal computing
+### 2.4  4th generation microprossesors and the rise of personal computing
 
 the 4th generation of computing begun in 1971 when intel released the 4004 witch is the worlds first commercially available singlechip microprocessor (intel) by shrinking an entire
 central processing unit (wich is the cpu) onto one tiny silicon chip, microprocessors reduced hardware costs, power requirements and size.
