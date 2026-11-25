@@ -33,8 +33,8 @@ computer sizes which ran on computer software. this secured business computer us
 
 ### 2.4 / 4th generation microprossesors and the rise of personal computing
 
-the 4th generation of computing began in 1971 when intel released the 4004 witch is the worlds first commercially available singlechip microprocessor (intel) by shrinking an entire
-central processing unit wich is the cpu onto one tiny silicon chip, microprocessors reduced hardware costs, power requirements and size.
+the 4th generation of computing begun in 1971 when intel released the 4004 witch is the worlds first commercially available singlechip microprocessor (intel) by shrinking an entire
+central processing unit (wich is the cpu) onto one tiny silicon chip, microprocessors reduced hardware costs, power requirements and size.
 
 this breakthrough changed who could own and use a computer. instead of requiring multimillion dollar budgets and air conditioned rooms, computing power became affordable enough for daly
 use, engineers, and startups to build compact personal computers (computer history museum) early microcomputers like the altair 8800 and later consumer systems from apple and IBM
@@ -45,10 +45,10 @@ brought computing directly into homes, schools, and small businesses, completing
 
 computer history museum. timeline of computer history, https://computerhistory.org/
 
-encyclopaedia britannica. history of computing, https://britannica.com/
+encyclopaedia britanica. history of computing, https://britannica.com/
 
-IBM. the IBM System/360, https://ibm.com/
+IBM. the ibm System/360, https://ibm.com/
 
 intel. the intel 4004, https://intel.com/
 
-science museum(2023). charles babbages difference engines and the science museum, https://sciencemuseum.org.uk/
+science museum(2023). charles babbages difference engines and the sciense museum, https://sciencemuseum.org.uk/
