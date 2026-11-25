@@ -12,3 +12,9 @@ i belive ways to prevent data leaks is through stronger security systems and the
 throughout the compting history thechnology has devloped the work place in many instances, over time computers became so advanced that it could be given human jobs due to the automation and eficency, although computers where significantly better thsn humans in certain feilds humans who still worked in the workspace would have to adpat to the new technology, the internal labour organization highlighted digitalisation and ai was changing the workplace requirments and was causing for people to be more qualified in their feild of work
 
 a  possible  for the goverment to work towards would to invest in their employees for education and training for ai, this would help the workers adapt faster and provide a smooth workplace
+
+## 5.3 digital inequality 
+digital inequality is also a major concern, although computing has became so advanced and extremely accesablie not everyone has equal access to computers, stable internet connection and educational material.people who come from less fortunate backgrounds may not benefit from modern day computers as they dont often fall in everybodys price range this creates a digital division between those who have acess to the internt and those who dont 
+
+according to international telecommunication union approximately 2 billion people in tghe world remain without internet acess, this could be combated by the goverment by providing affordable personal computer.
+
