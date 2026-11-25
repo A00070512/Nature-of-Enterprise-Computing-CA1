@@ -1,2 +1,2 @@
 # Nature of Enterprise Computing CA1
-## Second viewpoint: Societal
+## 4. Second viewpoint: Societal
